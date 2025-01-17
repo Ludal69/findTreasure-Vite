@@ -22,6 +22,7 @@ Comment vous présentez votre travail une fois réalisé.
 Assurez-vous que Node.js est installé sur votre machine. Vous pouvez vérifier avec les commandes suivantes dans le terminal :
 
 node -v
+
 npm -v
 
 ## Créer un projet avec Vite
